@@ -1,16 +1,20 @@
 # Java-by-example Workshop
 
+## JSONLint 
+
+Link : https://jsonlint.com/
+
 ## Maven
 
 * Link : https://maven.apache.org/download.cgi 
 
 ----
 
-    mvn -B archetype:generate \
-      -DarchetypeGroupId=org.apache.maven.archetypes \
-      -DgroupId=com.mycompany.app \
-      -DartifactId=my-app
+    mvn -B archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DgroupId=com.mycompany.app -DartifactId=my-app
 
+## Task 2 : MyTAG-Profile
+
+Demo : http://tag-hessen.org/it/lahcini
 
 
 ## Java SE ( JDK )
