@@ -1,5 +1,18 @@
 # Java-by-example Workshop
 
+## Maven
+
+* Link : https://maven.apache.org/download.cgi 
+
+----
+
+    mvn -B archetype:generate \
+      -DarchetypeGroupId=org.apache.maven.archetypes \
+      -DgroupId=com.mycompany.app \
+      -DartifactId=my-app
+
+
+
 ## Java SE ( JDK )
 
 * Link : http://www.oracle.com/technetwork/java/javase/downloads/index.html
