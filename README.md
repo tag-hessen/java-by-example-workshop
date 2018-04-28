@@ -7,6 +7,7 @@
 ## Weka 3
 
 * Link : https://www.cs.waikato.ac.nz/ml/weka/
+* API documentation : http://weka.sourceforge.net/doc.stable/
 
 ## Apache Http Components
 
