@@ -1,5 +1,13 @@
 # Java-by-example Workshop
 
+## A neural netowrk playground ( Google ) 
+
+* Link : https://playground.tensorflow.org/
+
+## Weka 3
+
+* Link : https://www.cs.waikato.ac.nz/ml/weka/
+
 ## Apache Http Components
 
 * Link : https://hc.apache.org/
@@ -16,10 +24,6 @@ Link : https://jsonlint.com/
 
     mvn -B archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DgroupId=com.mycompany.app -DartifactId=my-app
 
-## Task 2 : MyTAG-Profile
-
-Demo : http://tag-hessen.org/it/lahcini
-
 
 ## Java SE ( JDK )
 
@@ -29,7 +33,7 @@ Demo : http://tag-hessen.org/it/lahcini
 
 * Download Link : http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/oxygen3a
 
-## Arg4j 
+## Args4j 
 
 * Link : http://args4j.kohsuke.org/index.html
 
