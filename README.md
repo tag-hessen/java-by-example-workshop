@@ -1,5 +1,13 @@
 # Java-by-example Workshop
 
+## Evaluationsbogen :
+
+* Link : https://goo.gl/forms/7HOVL1ly6TRe7X5h2
+
+## Quiz :
+
+* Link : https://goo.gl/forms/E45ORELdxrNs9fzF2
+
 ## A neural netowrk playground ( Google ) 
 
 * Link : https://playground.tensorflow.org/
